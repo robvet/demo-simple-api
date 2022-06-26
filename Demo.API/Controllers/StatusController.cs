@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace DemoAPI.Controllers
 {
+    // Kudos to CSA Scott Rutz for the idea for this class!!
+    
     [ApiController]
     public class StatusController : Controller
     {
