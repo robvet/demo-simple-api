@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DemoAPI.Controllers
+namespace SimpleApi.Controllers
 {
     // Kudos to CSA Scott Rutz for the idea for this class!!
     

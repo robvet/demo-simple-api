@@ -17,10 +17,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "DemoAPI": {
+    "SimpleApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "api/launch",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
